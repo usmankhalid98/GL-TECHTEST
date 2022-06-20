@@ -1,5 +1,7 @@
 # Grad Tech Test - Python
 
+The grad test is done. I have attempted the Python section of the grad tech test.
+
 ## Clone this repository
 
 Use `git clone` to clone the repository locally, then change the remote, please do not fork this repository. To change the remote, use
